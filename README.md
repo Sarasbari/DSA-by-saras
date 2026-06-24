@@ -46,8 +46,13 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sarasbari/DSA-by-saras/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Sarasbari/DSA-by-saras/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sarasbari/DSA-by-saras/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Sarasbari/DSA-by-saras/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
