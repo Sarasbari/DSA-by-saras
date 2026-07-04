@@ -52,6 +52,7 @@ Feel free to reach out or collaborate!
 | [0070-climbing-stairs](https://github.com/Sarasbari/DSA-by-saras/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sarasbari/DSA-by-saras/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Feel free to reach out or collaborate!
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Sarasbari/DSA-by-saras/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0416-partition-equal-subset-sum) |
 ## Combinatorics
 |  |
 | ------- |
