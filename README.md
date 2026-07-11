@@ -50,6 +50,7 @@ Feel free to reach out or collaborate!
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sarasbari/DSA-by-saras/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Sarasbari/DSA-by-saras/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
@@ -120,6 +121,7 @@ Feel free to reach out or collaborate!
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
