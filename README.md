@@ -62,6 +62,7 @@ Feel free to reach out or collaborate!
 | [0494-target-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -83,6 +84,7 @@ Feel free to reach out or collaborate!
 | [0416-partition-equal-subset-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Combinatorics
 |  |
@@ -133,4 +135,8 @@ Feel free to reach out or collaborate!
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
