@@ -67,6 +67,7 @@ Feel free to reach out or collaborate!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
@@ -90,6 +91,7 @@ Feel free to reach out or collaborate!
 | [0518-coin-change-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Combinatorics
 |  |
@@ -100,6 +102,7 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
