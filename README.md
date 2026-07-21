@@ -150,6 +150,7 @@ Feel free to reach out or collaborate!
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
@@ -166,4 +167,8 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Sarasbari/DSA-by-saras/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
