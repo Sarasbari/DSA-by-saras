@@ -46,6 +46,7 @@ Feel free to reach out or collaborate!
 | [0368-largest-divisible-subset](https://github.com/Sarasbari/DSA-by-saras/tree/master/0368-largest-divisible-subset) |
 | [1922-count-good-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/1922-count-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Feel free to reach out or collaborate!
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Feel free to reach out or collaborate!
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -174,4 +177,5 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
