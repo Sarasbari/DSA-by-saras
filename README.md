@@ -137,6 +137,7 @@ Feel free to reach out or collaborate!
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sarasbari/DSA-by-saras/tree/master/3536-maximum-product-of-two-digits) |
 ## Ordered Set
 |  |
@@ -164,6 +165,7 @@ Feel free to reach out or collaborate!
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
@@ -189,4 +191,8 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
