@@ -82,6 +82,7 @@ Feel free to reach out or collaborate!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -173,6 +174,7 @@ Feel free to reach out or collaborate!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0001-two-sum) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 ## Recursion
 |  |
