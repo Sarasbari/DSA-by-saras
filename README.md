@@ -133,6 +133,7 @@ Feel free to reach out or collaborate!
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Sarasbari/DSA-by-saras/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0628-maximum-product-of-three-numbers) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
@@ -161,6 +162,7 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0072-edit-distance](https://github.com/Sarasbari/DSA-by-saras/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
@@ -175,6 +177,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 ## Recursion
 |  |
