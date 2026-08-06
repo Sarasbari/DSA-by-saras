@@ -83,6 +83,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Sarasbari/DSA-by-saras/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
@@ -114,6 +115,7 @@ Feel free to reach out or collaborate!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sarasbari/DSA-by-saras/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Sarasbari/DSA-by-saras/tree/master/1260-shift-2d-grid) |
@@ -183,6 +185,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Sarasbari/DSA-by-saras/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
