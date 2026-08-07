@@ -168,6 +168,7 @@ Feel free to reach out or collaborate!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sarasbari/DSA-by-saras/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
@@ -235,4 +236,12 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
