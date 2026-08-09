@@ -43,6 +43,7 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0062-unique-paths](https://github.com/Sarasbari/DSA-by-saras/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sarasbari/DSA-by-saras/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sarasbari/DSA-by-saras/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0368-largest-divisible-subset](https://github.com/Sarasbari/DSA-by-saras/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0628-maximum-product-of-three-numbers) |
 | [1922-count-good-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/1922-count-good-numbers) |
@@ -89,6 +90,7 @@ Feel free to reach out or collaborate!
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sarasbari/DSA-by-saras/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarasbari/DSA-by-saras/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sarasbari/DSA-by-saras/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0213-house-robber-ii) |
@@ -240,6 +242,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sarasbari/DSA-by-saras/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sarasbari/DSA-by-saras/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
