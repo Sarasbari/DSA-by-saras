@@ -53,6 +53,7 @@ Feel free to reach out or collaborate!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Sarasbari/DSA-by-saras/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
@@ -166,11 +167,13 @@ Feel free to reach out or collaborate!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sarasbari/DSA-by-saras/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
@@ -248,6 +251,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
 ## Design
 |  |
 | ------- |
