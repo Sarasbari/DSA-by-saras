@@ -130,6 +130,7 @@ Feel free to reach out or collaborate!
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
@@ -181,6 +182,7 @@ Feel free to reach out or collaborate!
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sarasbari/DSA-by-saras/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
