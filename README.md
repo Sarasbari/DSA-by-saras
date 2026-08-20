@@ -85,6 +85,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Sarasbari/DSA-by-saras/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
@@ -131,6 +132,7 @@ Feel free to reach out or collaborate!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarasbari/DSA-by-saras/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
@@ -149,6 +151,7 @@ Feel free to reach out or collaborate!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
