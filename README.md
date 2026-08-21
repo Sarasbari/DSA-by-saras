@@ -54,6 +54,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Sarasbari/DSA-by-saras/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
@@ -88,6 +89,7 @@ Feel free to reach out or collaborate!
 | [0011-container-with-most-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Sarasbari/DSA-by-saras/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
@@ -135,6 +137,7 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarasbari/DSA-by-saras/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
@@ -260,6 +263,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarasbari/DSA-by-saras/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sarasbari/DSA-by-saras/tree/master/0155-min-stack) |
@@ -277,6 +281,7 @@ Feel free to reach out or collaborate!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Sarasbari/DSA-by-saras/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Sarasbari/DSA-by-saras/tree/master/0853-car-fleet) |
