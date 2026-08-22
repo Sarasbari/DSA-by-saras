@@ -190,6 +190,7 @@ Feel free to reach out or collaborate!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sarasbari/DSA-by-saras/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
@@ -212,6 +213,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sarasbari/DSA-by-saras/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Sarasbari/DSA-by-saras/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0128-longest-consecutive-sequence) |
@@ -291,4 +293,8 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0084-largest-rectangle-in-histogram) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sarasbari/DSA-by-saras/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
