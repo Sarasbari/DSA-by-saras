@@ -198,6 +198,7 @@ Feel free to reach out or collaborate!
 | [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
@@ -219,6 +220,7 @@ Feel free to reach out or collaborate!
 | [0128-longest-consecutive-sequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 ## Recursion
 |  |
@@ -297,4 +299,5 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarasbari/DSA-by-saras/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
