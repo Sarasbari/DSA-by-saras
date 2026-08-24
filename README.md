@@ -142,6 +142,7 @@ Feel free to reach out or collaborate!
 | [0042-trapping-rain-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarasbari/DSA-by-saras/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
@@ -199,6 +200,7 @@ Feel free to reach out or collaborate!
 | [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
@@ -221,6 +223,7 @@ Feel free to reach out or collaborate!
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 ## Recursion
 |  |
@@ -300,4 +303,5 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarasbari/DSA-by-saras/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
