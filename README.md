@@ -100,6 +100,7 @@ Feel free to reach out or collaborate!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarasbari/DSA-by-saras/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarasbari/DSA-by-saras/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarasbari/DSA-by-saras/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sarasbari/DSA-by-saras/tree/master/0198-house-robber) |
@@ -152,6 +153,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sarasbari/DSA-by-saras/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarasbari/DSA-by-saras/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Sarasbari/DSA-by-saras/tree/master/0875-koko-eating-bananas) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
