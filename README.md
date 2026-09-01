@@ -242,6 +242,7 @@ Feel free to reach out or collaborate!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sarasbari/DSA-by-saras/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/1922-count-good-numbers) |
 ## Simulation
@@ -324,5 +325,6 @@ Feel free to reach out or collaborate!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sarasbari/DSA-by-saras/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
