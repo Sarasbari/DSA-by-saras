@@ -110,6 +110,7 @@ Feel free to reach out or collaborate!
 | [0198-house-robber](https://github.com/Sarasbari/DSA-by-saras/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sarasbari/DSA-by-saras/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sarasbari/DSA-by-saras/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
@@ -154,6 +155,7 @@ Feel free to reach out or collaborate!
 | [0141-linked-list-cycle](https://github.com/Sarasbari/DSA-by-saras/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarasbari/DSA-by-saras/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -165,12 +167,14 @@ Feel free to reach out or collaborate!
 | [0074-search-a-2d-matrix](https://github.com/Sarasbari/DSA-by-saras/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarasbari/DSA-by-saras/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Sarasbari/DSA-by-saras/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Sarasbari/DSA-by-saras/tree/master/0981-time-based-key-value-store) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -347,4 +351,9 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sarasbari/DSA-by-saras/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
