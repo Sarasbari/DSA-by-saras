@@ -41,6 +41,7 @@ Feel free to reach out or collaborate!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Sarasbari/DSA-by-saras/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sarasbari/DSA-by-saras/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarasbari/DSA-by-saras/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -249,6 +250,7 @@ Feel free to reach out or collaborate!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sarasbari/DSA-by-saras/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0206-reverse-linked-list) |
@@ -334,6 +336,7 @@ Feel free to reach out or collaborate!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sarasbari/DSA-by-saras/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sarasbari/DSA-by-saras/tree/master/0138-copy-list-with-random-pointer) |
