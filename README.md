@@ -245,6 +245,7 @@ Feel free to reach out or collaborate!
 | [0128-longest-consecutive-sequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sarasbari/DSA-by-saras/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sarasbari/DSA-by-saras/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Sarasbari/DSA-by-saras/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
@@ -318,6 +319,7 @@ Feel free to reach out or collaborate!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sarasbari/DSA-by-saras/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sarasbari/DSA-by-saras/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/Sarasbari/DSA-by-saras/tree/master/0981-time-based-key-value-store) |
 ## Monotonic Stack
@@ -346,6 +348,7 @@ Feel free to reach out or collaborate!
 | [0138-copy-list-with-random-pointer](https://github.com/Sarasbari/DSA-by-saras/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sarasbari/DSA-by-saras/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Sarasbari/DSA-by-saras/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -356,4 +359,8 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sarasbari/DSA-by-saras/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
