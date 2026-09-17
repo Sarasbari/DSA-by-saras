@@ -210,6 +210,7 @@ Feel free to reach out or collaborate!
 | [0199-binary-tree-right-side-view](https://github.com/Sarasbari/DSA-by-saras/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -391,6 +392,7 @@ Feel free to reach out or collaborate!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -402,6 +404,7 @@ Feel free to reach out or collaborate!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -414,6 +417,7 @@ Feel free to reach out or collaborate!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
