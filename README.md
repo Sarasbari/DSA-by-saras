@@ -109,6 +109,7 @@ Feel free to reach out or collaborate!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarasbari/DSA-by-saras/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarasbari/DSA-by-saras/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sarasbari/DSA-by-saras/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sarasbari/DSA-by-saras/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
@@ -143,6 +144,7 @@ Feel free to reach out or collaborate!
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sarasbari/DSA-by-saras/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/Sarasbari/DSA-by-saras/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Two Pointers
@@ -216,6 +218,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
+| [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0494-target-sum) |
 ## String
 |  |
@@ -229,6 +232,7 @@ Feel free to reach out or collaborate!
 | [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarasbari/DSA-by-saras/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
@@ -466,4 +470,5 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarasbari/DSA-by-saras/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
