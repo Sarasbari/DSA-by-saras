@@ -101,6 +101,7 @@ Feel free to reach out or collaborate!
 | [0074-search-a-2d-matrix](https://github.com/Sarasbari/DSA-by-saras/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sarasbari/DSA-by-saras/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sarasbari/DSA-by-saras/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarasbari/DSA-by-saras/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -179,6 +180,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sarasbari/DSA-by-saras/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -221,6 +223,7 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Sarasbari/DSA-by-saras/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0494-target-sum) |
 ## String
