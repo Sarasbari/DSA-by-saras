@@ -103,6 +103,7 @@ Feel free to reach out or collaborate!
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sarasbari/DSA-by-saras/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sarasbari/DSA-by-saras/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sarasbari/DSA-by-saras/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sarasbari/DSA-by-saras/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -149,6 +150,7 @@ Feel free to reach out or collaborate!
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sarasbari/DSA-by-saras/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Sarasbari/DSA-by-saras/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/Sarasbari/DSA-by-saras/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -229,6 +231,7 @@ Feel free to reach out or collaborate!
 | [0040-combination-sum-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sarasbari/DSA-by-saras/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sarasbari/DSA-by-saras/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sarasbari/DSA-by-saras/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0494-target-sum) |
@@ -240,6 +243,7 @@ Feel free to reach out or collaborate!
 | [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sarasbari/DSA-by-saras/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Sarasbari/DSA-by-saras/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0208-implement-trie-prefix-tree) |
@@ -423,6 +427,7 @@ Feel free to reach out or collaborate!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sarasbari/DSA-by-saras/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0104-maximum-depth-of-binary-tree) |
