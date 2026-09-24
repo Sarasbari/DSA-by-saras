@@ -65,6 +65,7 @@ Feel free to reach out or collaborate!
 | [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarasbari/DSA-by-saras/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/Sarasbari/DSA-by-saras/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarasbari/DSA-by-saras/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sarasbari/DSA-by-saras/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0213-house-robber-ii) |
@@ -233,6 +234,7 @@ Feel free to reach out or collaborate!
 | [0078-subsets](https://github.com/Sarasbari/DSA-by-saras/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sarasbari/DSA-by-saras/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Sarasbari/DSA-by-saras/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0494-target-sum) |
 ## String
@@ -246,6 +248,7 @@ Feel free to reach out or collaborate!
 | [0079-word-search](https://github.com/Sarasbari/DSA-by-saras/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Sarasbari/DSA-by-saras/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarasbari/DSA-by-saras/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
