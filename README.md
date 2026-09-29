@@ -130,6 +130,7 @@ Feel free to reach out or collaborate!
 | [0416-partition-equal-subset-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0518-coin-change-ii) |
+| [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Sarasbari/DSA-by-saras/tree/master/0739-daily-temperatures) |
@@ -205,6 +206,7 @@ Feel free to reach out or collaborate!
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Sarasbari/DSA-by-saras/tree/master/0368-largest-divisible-subset) |
+| [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/Sarasbari/DSA-by-saras/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarasbari/DSA-by-saras/tree/master/0973-k-closest-points-to-origin) |
@@ -276,6 +278,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Hash Table
 |  |
@@ -295,6 +298,7 @@ Feel free to reach out or collaborate!
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/Sarasbari/DSA-by-saras/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 ## Recursion
@@ -320,6 +324,7 @@ Feel free to reach out or collaborate!
 | [0023-merge-k-sorted-lists](https://github.com/Sarasbari/DSA-by-saras/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarasbari/DSA-by-saras/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Sarasbari/DSA-by-saras/tree/master/1046-last-stone-weight) |
@@ -328,6 +333,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
