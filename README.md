@@ -173,6 +173,7 @@ Feel free to reach out or collaborate!
 | [0143-reorder-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarasbari/DSA-by-saras/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -204,6 +205,7 @@ Feel free to reach out or collaborate!
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Sarasbari/DSA-by-saras/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
@@ -323,6 +325,7 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sarasbari/DSA-by-saras/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -385,6 +388,7 @@ Feel free to reach out or collaborate!
 | [0155-min-stack](https://github.com/Sarasbari/DSA-by-saras/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarasbari/DSA-by-saras/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/Sarasbari/DSA-by-saras/tree/master/0981-time-based-key-value-store) |
 ## Monotonic Stack
@@ -527,6 +531,7 @@ Feel free to reach out or collaborate!
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
