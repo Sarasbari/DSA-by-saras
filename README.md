@@ -102,6 +102,7 @@ Feel free to reach out or collaborate!
 | [0046-permutations](https://github.com/Sarasbari/DSA-by-saras/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sarasbari/DSA-by-saras/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sarasbari/DSA-by-saras/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
@@ -204,6 +205,7 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0015-3sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0295-find-median-from-data-stream) |
@@ -542,4 +544,8 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Sarasbari/DSA-by-saras/tree/master/0973-k-closest-points-to-origin) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
