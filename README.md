@@ -102,6 +102,7 @@ Feel free to reach out or collaborate!
 | [0046-permutations](https://github.com/Sarasbari/DSA-by-saras/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sarasbari/DSA-by-saras/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/Sarasbari/DSA-by-saras/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sarasbari/DSA-by-saras/tree/master/0074-search-a-2d-matrix) |
