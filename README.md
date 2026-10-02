@@ -146,6 +146,7 @@ Feel free to reach out or collaborate!
 | [1260-shift-2d-grid](https://github.com/Sarasbari/DSA-by-saras/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Sarasbari/DSA-by-saras/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -192,6 +193,7 @@ Feel free to reach out or collaborate!
 | [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Sarasbari/DSA-by-saras/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Sarasbari/DSA-by-saras/tree/master/0981-time-based-key-value-store) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Sarasbari/DSA-by-saras/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
@@ -220,6 +222,7 @@ Feel free to reach out or collaborate!
 | [0973-k-closest-points-to-origin](https://github.com/Sarasbari/DSA-by-saras/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Sarasbari/DSA-by-saras/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sarasbari/DSA-by-saras/tree/master/3536-maximum-product-of-two-digits) |
@@ -339,6 +342,7 @@ Feel free to reach out or collaborate!
 | [0973-k-closest-points-to-origin](https://github.com/Sarasbari/DSA-by-saras/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Sarasbari/DSA-by-saras/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Sarasbari/DSA-by-saras/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Counting Sort
 |  |
 | ------- |
@@ -552,4 +556,8 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Sarasbari/DSA-by-saras/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
