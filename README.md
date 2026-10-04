@@ -59,6 +59,7 @@ Feel free to reach out or collaborate!
 | [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sarasbari/DSA-by-saras/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sarasbari/DSA-by-saras/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sarasbari/DSA-by-saras/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
@@ -105,6 +106,7 @@ Feel free to reach out or collaborate!
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sarasbari/DSA-by-saras/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sarasbari/DSA-by-saras/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sarasbari/DSA-by-saras/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sarasbari/DSA-by-saras/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0063-unique-paths-ii) |
@@ -291,6 +293,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sarasbari/DSA-by-saras/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
