@@ -145,6 +145,7 @@ Feel free to reach out or collaborate!
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Sarasbari/DSA-by-saras/tree/master/0739-daily-temperatures) |
+| [0846-hand-of-straights](https://github.com/Sarasbari/DSA-by-saras/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Sarasbari/DSA-by-saras/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Sarasbari/DSA-by-saras/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarasbari/DSA-by-saras/tree/master/0973-k-closest-points-to-origin) |
@@ -225,6 +226,7 @@ Feel free to reach out or collaborate!
 | [0435-non-overlapping-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0628-maximum-product-of-three-numbers) |
+| [0846-hand-of-straights](https://github.com/Sarasbari/DSA-by-saras/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Sarasbari/DSA-by-saras/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarasbari/DSA-by-saras/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
@@ -302,6 +304,7 @@ Feel free to reach out or collaborate!
 | [0435-non-overlapping-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0846-hand-of-straights](https://github.com/Sarasbari/DSA-by-saras/tree/master/0846-hand-of-straights) |
 ## Hash Table
 |  |
 | ------- |
@@ -321,6 +324,7 @@ Feel free to reach out or collaborate!
 | [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Sarasbari/DSA-by-saras/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/Sarasbari/DSA-by-saras/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 ## Recursion
