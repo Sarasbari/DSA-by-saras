@@ -189,6 +189,7 @@ Feel free to reach out or collaborate!
 | [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Sarasbari/DSA-by-saras/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
@@ -289,6 +290,7 @@ Feel free to reach out or collaborate!
 | [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
+| [0763-partition-labels](https://github.com/Sarasbari/DSA-by-saras/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Sarasbari/DSA-by-saras/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
@@ -305,6 +307,7 @@ Feel free to reach out or collaborate!
 | [0435-non-overlapping-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/Sarasbari/DSA-by-saras/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Sarasbari/DSA-by-saras/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sarasbari/DSA-by-saras/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Hash Table
@@ -326,6 +329,7 @@ Feel free to reach out or collaborate!
 | [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/Sarasbari/DSA-by-saras/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Sarasbari/DSA-by-saras/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/Sarasbari/DSA-by-saras/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
