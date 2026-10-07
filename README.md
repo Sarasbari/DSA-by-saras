@@ -155,6 +155,7 @@ Feel free to reach out or collaborate!
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sarasbari/DSA-by-saras/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Sarasbari/DSA-by-saras/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -305,6 +306,7 @@ Feel free to reach out or collaborate!
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/Sarasbari/DSA-by-saras/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Sarasbari/DSA-by-saras/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Hash Table
 |  |
 | ------- |
