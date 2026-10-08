@@ -252,6 +252,7 @@ Feel free to reach out or collaborate!
 | [0100-same-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sarasbari/DSA-by-saras/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/Sarasbari/DSA-by-saras/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarasbari/DSA-by-saras/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
@@ -323,6 +324,7 @@ Feel free to reach out or collaborate!
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sarasbari/DSA-by-saras/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Sarasbari/DSA-by-saras/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sarasbari/DSA-by-saras/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sarasbari/DSA-by-saras/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Sarasbari/DSA-by-saras/tree/master/0146-lru-cache) |
@@ -503,6 +505,7 @@ Feel free to reach out or collaborate!
 | [0100-same-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0110-balanced-binary-tree) |
+| [0133-clone-graph](https://github.com/Sarasbari/DSA-by-saras/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarasbari/DSA-by-saras/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarasbari/DSA-by-saras/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0226-invert-binary-tree) |
@@ -586,4 +589,8 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sarasbari/DSA-by-saras/tree/master/1851-minimum-interval-to-include-each-query) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Sarasbari/DSA-by-saras/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
