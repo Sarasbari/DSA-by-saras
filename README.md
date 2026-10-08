@@ -81,6 +81,7 @@ Feel free to reach out or collaborate!
 | [0494-target-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
@@ -290,6 +291,7 @@ Feel free to reach out or collaborate!
 | [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Sarasbari/DSA-by-saras/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Sarasbari/DSA-by-saras/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
@@ -306,6 +308,7 @@ Feel free to reach out or collaborate!
 | [0134-gas-station](https://github.com/Sarasbari/DSA-by-saras/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Sarasbari/DSA-by-saras/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Sarasbari/DSA-by-saras/tree/master/0846-hand-of-straights) |
@@ -406,6 +409,7 @@ Feel free to reach out or collaborate!
 | [0143-reorder-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarasbari/DSA-by-saras/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sarasbari/DSA-by-saras/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Sarasbari/DSA-by-saras/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Sarasbari/DSA-by-saras/tree/master/0853-car-fleet) |
 ## Bracket Sequences
@@ -413,6 +417,7 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
