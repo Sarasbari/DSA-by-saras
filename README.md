@@ -129,6 +129,7 @@ Feel free to reach out or collaborate!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarasbari/DSA-by-saras/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarasbari/DSA-by-saras/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sarasbari/DSA-by-saras/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Sarasbari/DSA-by-saras/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/0215-kth-largest-element-in-an-array) |
@@ -173,6 +174,7 @@ Feel free to reach out or collaborate!
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sarasbari/DSA-by-saras/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sarasbari/DSA-by-saras/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Sarasbari/DSA-by-saras/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/Sarasbari/DSA-by-saras/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -254,6 +256,7 @@ Feel free to reach out or collaborate!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Sarasbari/DSA-by-saras/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarasbari/DSA-by-saras/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Sarasbari/DSA-by-saras/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -402,6 +405,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Sarasbari/DSA-by-saras/tree/master/0200-number-of-islands) |
 ## Stack
 |  |
 | ------- |
@@ -507,6 +511,7 @@ Feel free to reach out or collaborate!
 | [0110-balanced-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/Sarasbari/DSA-by-saras/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarasbari/DSA-by-saras/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Sarasbari/DSA-by-saras/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarasbari/DSA-by-saras/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarasbari/DSA-by-saras/tree/master/0230-kth-smallest-element-in-a-bst) |
