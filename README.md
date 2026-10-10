@@ -152,6 +152,7 @@ Feel free to reach out or collaborate!
 | [0853-car-fleet](https://github.com/Sarasbari/DSA-by-saras/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Sarasbari/DSA-by-saras/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarasbari/DSA-by-saras/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Sarasbari/DSA-by-saras/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Sarasbari/DSA-by-saras/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/Sarasbari/DSA-by-saras/tree/master/1260-shift-2d-grid) |
@@ -178,6 +179,7 @@ Feel free to reach out or collaborate!
 | [0200-number-of-islands](https://github.com/Sarasbari/DSA-by-saras/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Sarasbari/DSA-by-saras/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Sarasbari/DSA-by-saras/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Two Pointers
@@ -262,6 +264,7 @@ Feel free to reach out or collaborate!
 | [0226-invert-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Sarasbari/DSA-by-saras/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
