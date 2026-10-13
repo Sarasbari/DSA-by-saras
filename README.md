@@ -262,6 +262,7 @@ Feel free to reach out or collaborate!
 | [0100-same-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sarasbari/DSA-by-saras/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Sarasbari/DSA-by-saras/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Sarasbari/DSA-by-saras/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Sarasbari/DSA-by-saras/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarasbari/DSA-by-saras/tree/master/0199-binary-tree-right-side-view) |
@@ -299,6 +300,7 @@ Feel free to reach out or collaborate!
 | [0079-word-search](https://github.com/Sarasbari/DSA-by-saras/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Sarasbari/DSA-by-saras/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Sarasbari/DSA-by-saras/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarasbari/DSA-by-saras/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -338,6 +340,7 @@ Feel free to reach out or collaborate!
 | [0036-valid-sudoku](https://github.com/Sarasbari/DSA-by-saras/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sarasbari/DSA-by-saras/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Sarasbari/DSA-by-saras/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Sarasbari/DSA-by-saras/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sarasbari/DSA-by-saras/tree/master/0138-copy-list-with-random-pointer) |
@@ -615,4 +618,8 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Sarasbari/DSA-by-saras/tree/master/0133-clone-graph) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Sarasbari/DSA-by-saras/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
