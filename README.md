@@ -274,6 +274,7 @@ Feel free to reach out or collaborate!
 | [0417-pacific-atlantic-water-flow](https://github.com/Sarasbari/DSA-by-saras/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Sarasbari/DSA-by-saras/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/Sarasbari/DSA-by-saras/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
@@ -385,6 +386,7 @@ Feel free to reach out or collaborate!
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarasbari/DSA-by-saras/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Sarasbari/DSA-by-saras/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -545,6 +547,7 @@ Feel free to reach out or collaborate!
 | [0572-subtree-of-another-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Sarasbari/DSA-by-saras/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -628,6 +631,7 @@ Feel free to reach out or collaborate!
 | [0207-course-schedule](https://github.com/Sarasbari/DSA-by-saras/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Sarasbari/DSA-by-saras/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -641,4 +645,12 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sarasbari/DSA-by-saras/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
