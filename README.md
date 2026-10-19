@@ -161,6 +161,7 @@ Feel free to reach out or collaborate!
 | [1260-shift-2d-grid](https://github.com/Sarasbari/DSA-by-saras/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarasbari/DSA-by-saras/tree/master/1584-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sarasbari/DSA-by-saras/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sarasbari/DSA-by-saras/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -433,6 +434,7 @@ Feel free to reach out or collaborate!
 | [0200-number-of-islands](https://github.com/Sarasbari/DSA-by-saras/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Sarasbari/DSA-by-saras/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarasbari/DSA-by-saras/tree/master/1584-min-cost-to-connect-all-points) |
 ## Stack
 |  |
 | ------- |
@@ -638,6 +640,7 @@ Feel free to reach out or collaborate!
 | [0332-reconstruct-itinerary](https://github.com/Sarasbari/DSA-by-saras/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/Sarasbari/DSA-by-saras/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarasbari/DSA-by-saras/tree/master/1584-min-cost-to-connect-all-points) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -671,4 +674,20 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Sarasbari/DSA-by-saras/tree/master/0332-reconstruct-itinerary) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarasbari/DSA-by-saras/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarasbari/DSA-by-saras/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarasbari/DSA-by-saras/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarasbari/DSA-by-saras/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
