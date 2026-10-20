@@ -151,6 +151,7 @@ Feel free to reach out or collaborate!
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Sarasbari/DSA-by-saras/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/Sarasbari/DSA-by-saras/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Sarasbari/DSA-by-saras/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Sarasbari/DSA-by-saras/tree/master/0875-koko-eating-bananas) |
@@ -185,6 +186,7 @@ Feel free to reach out or collaborate!
 | [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sarasbari/DSA-by-saras/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Sarasbari/DSA-by-saras/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Sarasbari/DSA-by-saras/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -214,6 +216,7 @@ Feel free to reach out or collaborate!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarasbari/DSA-by-saras/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
+| [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Sarasbari/DSA-by-saras/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Sarasbari/DSA-by-saras/tree/master/0981-time-based-key-value-store) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sarasbari/DSA-by-saras/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -278,6 +281,7 @@ Feel free to reach out or collaborate!
 | [0684-redundant-connection](https://github.com/Sarasbari/DSA-by-saras/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Sarasbari/DSA-by-saras/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
@@ -392,6 +396,7 @@ Feel free to reach out or collaborate!
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarasbari/DSA-by-saras/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Sarasbari/DSA-by-saras/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -434,6 +439,7 @@ Feel free to reach out or collaborate!
 | [0200-number-of-islands](https://github.com/Sarasbari/DSA-by-saras/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Sarasbari/DSA-by-saras/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sarasbari/DSA-by-saras/tree/master/1584-min-cost-to-connect-all-points) |
 ## Stack
 |  |
@@ -555,6 +561,7 @@ Feel free to reach out or collaborate!
 | [0684-redundant-connection](https://github.com/Sarasbari/DSA-by-saras/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -662,6 +669,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -690,4 +698,8 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sarasbari/DSA-by-saras/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
