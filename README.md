@@ -83,6 +83,7 @@ Feel free to reach out or collaborate!
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarasbari/DSA-by-saras/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarasbari/DSA-by-saras/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -282,6 +283,7 @@ Feel free to reach out or collaborate!
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarasbari/DSA-by-saras/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Sarasbari/DSA-by-saras/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
@@ -397,6 +399,7 @@ Feel free to reach out or collaborate!
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarasbari/DSA-by-saras/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarasbari/DSA-by-saras/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Sarasbari/DSA-by-saras/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -562,6 +565,7 @@ Feel free to reach out or collaborate!
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarasbari/DSA-by-saras/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -647,6 +651,7 @@ Feel free to reach out or collaborate!
 | [0332-reconstruct-itinerary](https://github.com/Sarasbari/DSA-by-saras/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/Sarasbari/DSA-by-saras/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarasbari/DSA-by-saras/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sarasbari/DSA-by-saras/tree/master/1584-min-cost-to-connect-all-points) |
 ## Bidirectional Search
 |  |
@@ -665,6 +670,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sarasbari/DSA-by-saras/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarasbari/DSA-by-saras/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
