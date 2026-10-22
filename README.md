@@ -83,6 +83,7 @@ Feel free to reach out or collaborate!
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sarasbari/DSA-by-saras/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarasbari/DSA-by-saras/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
@@ -152,6 +153,7 @@ Feel free to reach out or collaborate!
 | [0695-max-area-of-island](https://github.com/Sarasbari/DSA-by-saras/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarasbari/DSA-by-saras/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Sarasbari/DSA-by-saras/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sarasbari/DSA-by-saras/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/Sarasbari/DSA-by-saras/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Sarasbari/DSA-by-saras/tree/master/0853-car-fleet) |
