@@ -2,40 +2,28 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if (n == 0)
-            return 0;
         if (n == 1)
             return nums[0];
 
-        vector<int> arr1, arr2;
-        for (int i = 0; i < n; i++) {
-            if (i != 0)
-                arr1.push_back(nums[i]);
-            if (i != n - 1)
-                arr2.push_back(nums[i]);
-        }
-        int ans1 = solve(arr1);
-        int ans2 = solve(arr2);
-        return max(ans1, ans2);
+        int first = solve(nums, 0, n - 2);
+        int second = solve(nums, 1, n - 1);
+
+        return max(first, second);
     }
 
-    int solve(vector<int>& nums) {
-        int n = nums.size();
-        if (n == 1)
-            return nums[0];
+    int solve(vector<int>& nums, int start, int end) {
+        int before = 0;
+        int after = 0;
 
-        int prev = nums[0];
-        int prev2 = 0;
+        for (int i = start; i <= end; i++) {
+            int take = nums[i] + before;
+            int notTake = after;
 
-        for (int i = 1; i < n; i++) {
-            int pick = nums[i];
-            if (i > 1)
-                pick += prev2;
-            int nonpick = prev;
-            int curr = max(pick, nonpick);
-            prev2 = prev;
-            prev = curr;
+            int curr = max(take, notTake);
+
+            before = after;
+            after = curr;
         }
-        return prev;
+        return after;
     }
 };
