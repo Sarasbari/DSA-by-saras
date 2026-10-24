@@ -56,6 +56,7 @@ Feel free to reach out or collaborate!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarasbari/DSA-by-saras/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0045-jump-game-ii) |
@@ -197,6 +198,7 @@ Feel free to reach out or collaborate!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarasbari/DSA-by-saras/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -309,6 +311,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarasbari/DSA-by-saras/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Sarasbari/DSA-by-saras/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
@@ -713,4 +716,8 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Sarasbari/DSA-by-saras/tree/master/0778-swim-in-rising-water) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarasbari/DSA-by-saras/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
