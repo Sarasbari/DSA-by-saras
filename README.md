@@ -67,6 +67,7 @@ Feel free to reach out or collaborate!
 | [0064-minimum-path-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sarasbari/DSA-by-saras/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sarasbari/DSA-by-saras/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Sarasbari/DSA-by-saras/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarasbari/DSA-by-saras/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -318,6 +319,7 @@ Feel free to reach out or collaborate!
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sarasbari/DSA-by-saras/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Sarasbari/DSA-by-saras/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Sarasbari/DSA-by-saras/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Sarasbari/DSA-by-saras/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Sarasbari/DSA-by-saras/tree/master/0127-word-ladder) |
