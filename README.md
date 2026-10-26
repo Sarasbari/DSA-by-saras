@@ -722,4 +722,12 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sarasbari/DSA-by-saras/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
