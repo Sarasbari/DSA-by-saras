@@ -72,6 +72,7 @@ Feel free to reach out or collaborate!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarasbari/DSA-by-saras/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Sarasbari/DSA-by-saras/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Sarasbari/DSA-by-saras/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sarasbari/DSA-by-saras/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarasbari/DSA-by-saras/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sarasbari/DSA-by-saras/tree/master/0198-house-robber) |
@@ -98,6 +99,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sarasbari/DSA-by-saras/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Sarasbari/DSA-by-saras/tree/master/0139-word-break) |
 ## Array
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Feel free to reach out or collaborate!
 | [0128-longest-consecutive-sequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sarasbari/DSA-by-saras/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Sarasbari/DSA-by-saras/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Sarasbari/DSA-by-saras/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarasbari/DSA-by-saras/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Sarasbari/DSA-by-saras/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -326,6 +329,7 @@ Feel free to reach out or collaborate!
 | [0125-valid-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Sarasbari/DSA-by-saras/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Sarasbari/DSA-by-saras/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Sarasbari/DSA-by-saras/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarasbari/DSA-by-saras/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
@@ -370,6 +374,7 @@ Feel free to reach out or collaborate!
 | [0128-longest-consecutive-sequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Sarasbari/DSA-by-saras/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sarasbari/DSA-by-saras/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Sarasbari/DSA-by-saras/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Sarasbari/DSA-by-saras/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Sarasbari/DSA-by-saras/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0208-implement-trie-prefix-tree) |
@@ -626,6 +631,7 @@ Feel free to reach out or collaborate!
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Sarasbari/DSA-by-saras/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarasbari/DSA-by-saras/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarasbari/DSA-by-saras/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0212-word-search-ii) |
@@ -732,4 +738,8 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sarasbari/DSA-by-saras/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
