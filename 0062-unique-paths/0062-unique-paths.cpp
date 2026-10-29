@@ -1,29 +1,27 @@
 class Solution {
 public:
-    int uniquePaths(int m, int n) { return func(m, n); }
+    int M, N;
+    int t[101][101];
+    int uniquePaths(int m, int n) {
+        M = m;
+        N = n;
 
-    int func(int m, int n) {
-        vector<int> prev(n, 0);
-        for (int i = 0; i < m; i++) {
-            vector<int> temp(n, 0);
-            for (int j = 0; j < n; j++) {
-                if (i == 0 && j == 0) {
-                    temp[j] = 1;
-                    continue;
-                }
+        memset(t, -1, sizeof(t));
 
-                int up = 0;
-                int left = 0;
+        return solve(0, 0);
+    }
 
-                if (i > 0)
-                    up = prev[j];
-                if (j > 0)
-                    left = temp[j - 1];
+    int solve(int i, int j) {
+        if (i >= M || j >= N)
+            return 0;
+        if (i == M - 1 && j == N - 1)
+            return 1;
+        if (t[i][j] != -1)
+            return t[i][j];
 
-                temp[j] = up + left;
-            }
-            prev = temp;
-        }
-        return prev[n - 1];
+        int right = solve(i, j + 1);
+        int down = solve(i + 1, j);
+
+        return t[i][j] = right + down;
     }
 };
