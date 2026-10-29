@@ -737,6 +737,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -749,4 +750,8 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0300-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
