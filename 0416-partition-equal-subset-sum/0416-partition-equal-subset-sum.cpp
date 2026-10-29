@@ -1,35 +1,25 @@
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
-        int n = nums.size();
-        int totalsum = 0;
+        int total = 0;
 
-        for (int i = 0; i < n; i++)
-            totalsum += nums[i];
+        for (int num : nums)
+            total += num;
 
-        if (totalsum % 2 == 1)
+        if (total % 2 == 1)
             return false;
-        else {
-            int k = totalsum / 2;
 
-            vector<bool> prev(k + 1, false);
-            prev[0] = true;
+        int target = total / 2;
 
-            if (nums[0] <= k)
-                prev[nums[0]] = true;
-            for (int i = 1; i < n; i++) {
-                vector<bool> curr(k + 1, false);
-                curr[0] = true;
-                for (int target = 1; target <= k; target++) {
-                    bool notaken = prev[target];
-                    bool taken = false;
-                    if (nums[i] <= target)
-                        taken = prev[target - nums[i]];
-                    curr[target] = notaken || taken;
-                }
-                prev = curr;
+        vector<int> dp(target + 1, false);
+        dp[0] = true;
+        for (int num : nums) {
+            for (int i = target; i >= num; i--) {
+                if (!dp[i - num])
+                    continue;
+                dp[i] = true;
             }
-            return prev[k];
         }
+        return dp[target];
     }
 };
