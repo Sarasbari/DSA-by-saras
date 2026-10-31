@@ -740,10 +740,12 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0518-coin-change-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
