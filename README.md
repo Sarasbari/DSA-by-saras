@@ -140,6 +140,7 @@ Feel free to reach out or collaborate!
 | [0128-longest-consecutive-sequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sarasbari/DSA-by-saras/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Sarasbari/DSA-by-saras/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Sarasbari/DSA-by-saras/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarasbari/DSA-by-saras/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Sarasbari/DSA-by-saras/tree/master/0152-maximum-product-subarray) |
@@ -251,6 +252,7 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0078-subsets](https://github.com/Sarasbari/DSA-by-saras/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3513-number-of-unique-xor-triplets-i) |
