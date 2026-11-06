@@ -84,6 +84,7 @@ Feel free to reach out or collaborate!
 | [0312-burst-balloons](https://github.com/Sarasbari/DSA-by-saras/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarasbari/DSA-by-saras/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/Sarasbari/DSA-by-saras/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Sarasbari/DSA-by-saras/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0435-non-overlapping-intervals) |
@@ -255,6 +256,7 @@ Feel free to reach out or collaborate!
 | [0136-single-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Sarasbari/DSA-by-saras/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Sarasbari/DSA-by-saras/tree/master/0338-counting-bits) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/3514-number-of-unique-xor-triplets-ii) |
