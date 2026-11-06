@@ -254,6 +254,7 @@ Feel free to reach out or collaborate!
 | [0078-subsets](https://github.com/Sarasbari/DSA-by-saras/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Sarasbari/DSA-by-saras/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sarasbari/DSA-by-saras/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Sarasbari/DSA-by-saras/tree/master/0338-counting-bits) |
@@ -456,6 +457,7 @@ Feel free to reach out or collaborate!
 | [0023-merge-k-sorted-lists](https://github.com/Sarasbari/DSA-by-saras/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Sarasbari/DSA-by-saras/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sarasbari/DSA-by-saras/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/Sarasbari/DSA-by-saras/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sarasbari/DSA-by-saras/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarasbari/DSA-by-saras/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
