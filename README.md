@@ -44,6 +44,7 @@ Feel free to reach out or collaborate!
 | [0002-add-two-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sarasbari/DSA-by-saras/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Sarasbari/DSA-by-saras/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sarasbari/DSA-by-saras/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sarasbari/DSA-by-saras/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sarasbari/DSA-by-saras/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sarasbari/DSA-by-saras/tree/master/0070-climbing-stairs) |
@@ -437,6 +438,7 @@ Feel free to reach out or collaborate!
 | [0002-add-two-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Sarasbari/DSA-by-saras/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Sarasbari/DSA-by-saras/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Sarasbari/DSA-by-saras/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sarasbari/DSA-by-saras/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/1922-count-good-numbers) |
