@@ -43,6 +43,7 @@ Feel free to reach out or collaborate!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sarasbari/DSA-by-saras/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sarasbari/DSA-by-saras/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sarasbari/DSA-by-saras/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sarasbari/DSA-by-saras/tree/master/0062-unique-paths) |
@@ -361,6 +362,7 @@ Feel free to reach out or collaborate!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sarasbari/DSA-by-saras/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Sarasbari/DSA-by-saras/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sarasbari/DSA-by-saras/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Sarasbari/DSA-by-saras/tree/master/0079-word-search) |
@@ -445,6 +447,7 @@ Feel free to reach out or collaborate!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Sarasbari/DSA-by-saras/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sarasbari/DSA-by-saras/tree/master/1260-shift-2d-grid) |
 ## Enumeration
