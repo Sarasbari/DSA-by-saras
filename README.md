@@ -203,6 +203,7 @@ Feel free to reach out or collaborate!
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sarasbari/DSA-by-saras/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2013-detect-squares](https://github.com/Sarasbari/DSA-by-saras/tree/master/2013-detect-squares) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sarasbari/DSA-by-saras/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3875-construct-uniform-parity-array-i) |
