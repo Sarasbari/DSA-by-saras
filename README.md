@@ -255,6 +255,7 @@ Feel free to reach out or collaborate!
 | [0647-palindromic-substrings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Sarasbari/DSA-by-saras/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
+| [1768-merge-strings-alternately](https://github.com/Sarasbari/DSA-by-saras/tree/master/1768-merge-strings-alternately) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarasbari/DSA-by-saras/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
@@ -395,6 +396,7 @@ Feel free to reach out or collaborate!
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1768-merge-strings-alternately](https://github.com/Sarasbari/DSA-by-saras/tree/master/1768-merge-strings-alternately) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3517-smallest-palindromic-rearrangement-i) |
