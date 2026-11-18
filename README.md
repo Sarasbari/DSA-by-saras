@@ -56,6 +56,7 @@ Feel free to reach out or collaborate!
 | [0371-sum-of-two-integers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarasbari/DSA-by-saras/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/Sarasbari/DSA-by-saras/tree/master/1922-count-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sarasbari/DSA-by-saras/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -393,6 +394,7 @@ Feel free to reach out or collaborate!
 | [0763-partition-labels](https://github.com/Sarasbari/DSA-by-saras/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Sarasbari/DSA-by-saras/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/Sarasbari/DSA-by-saras/tree/master/1048-longest-string-chain) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sarasbari/DSA-by-saras/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -832,4 +834,12 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/1143-longest-common-subsequence) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
