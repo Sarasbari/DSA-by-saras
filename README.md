@@ -177,6 +177,7 @@ Feel free to reach out or collaborate!
 | [0322-coin-change](https://github.com/Sarasbari/DSA-by-saras/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarasbari/DSA-by-saras/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Sarasbari/DSA-by-saras/tree/master/0332-reconstruct-itinerary) |
+| [0334-increasing-triplet-subsequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Sarasbari/DSA-by-saras/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Sarasbari/DSA-by-saras/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0416-partition-equal-subset-sum) |
@@ -415,6 +416,7 @@ Feel free to reach out or collaborate!
 | [0045-jump-game-ii](https://github.com/Sarasbari/DSA-by-saras/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sarasbari/DSA-by-saras/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sarasbari/DSA-by-saras/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Sarasbari/DSA-by-saras/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Sarasbari/DSA-by-saras/tree/master/0621-task-scheduler) |
@@ -833,6 +835,7 @@ Feel free to reach out or collaborate!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0334-increasing-triplet-subsequence) |
 ## 0-1 Knapsack
 |  |
 | ------- |
