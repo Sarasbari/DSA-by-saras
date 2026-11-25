@@ -257,6 +257,7 @@ Feel free to reach out or collaborate!
 | [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Sarasbari/DSA-by-saras/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Sarasbari/DSA-by-saras/tree/master/0763-partition-labels) |
@@ -394,6 +395,7 @@ Feel free to reach out or collaborate!
 | [0332-reconstruct-itinerary](https://github.com/Sarasbari/DSA-by-saras/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Sarasbari/DSA-by-saras/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0647-palindromic-substrings) |
