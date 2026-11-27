@@ -96,6 +96,7 @@ Feel free to reach out or collaborate!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarasbari/DSA-by-saras/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Sarasbari/DSA-by-saras/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Sarasbari/DSA-by-saras/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sarasbari/DSA-by-saras/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Sarasbari/DSA-by-saras/tree/master/0494-target-sum) |
@@ -259,6 +260,7 @@ Feel free to reach out or collaborate!
 | [0287-find-the-duplicate-number](https://github.com/Sarasbari/DSA-by-saras/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sarasbari/DSA-by-saras/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sarasbari/DSA-by-saras/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sarasbari/DSA-by-saras/tree/master/0647-palindromic-substrings) |
@@ -396,6 +398,7 @@ Feel free to reach out or collaborate!
 | [0242-valid-anagram](https://github.com/Sarasbari/DSA-by-saras/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/Sarasbari/DSA-by-saras/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Sarasbari/DSA-by-saras/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarasbari/DSA-by-saras/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Sarasbari/DSA-by-saras/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sarasbari/DSA-by-saras/tree/master/0567-permutation-in-string) |
