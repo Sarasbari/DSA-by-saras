@@ -8,6 +8,7 @@ public:
         while (left < right) {
             currarea = min(height[left], height[right]) * (right - left);
             maxarea = max(maxarea, currarea);
+
             if (height[left] < height[right])
                 left++;
             else
